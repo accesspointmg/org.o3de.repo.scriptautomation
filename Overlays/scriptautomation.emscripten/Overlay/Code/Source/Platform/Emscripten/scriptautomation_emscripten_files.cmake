@@ -6,6 +6,6 @@
 #
 #
 
-o3de_gem_setup()
-
-add_subdirectory(Code)
+set(FILES
+    Utils_Emscripten.cpp
+)
