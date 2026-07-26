@@ -94,7 +94,7 @@
     "overlays": []
   },
   "source_control": {
-    "git": "https://github.com/accesspointmg/o3de-scriptautomation.git",
+    "git": "https://github.com/accesspointmg/org.o3de.repo.scriptautomation.git",
     "branch": "2.0.0"
   }
 }
